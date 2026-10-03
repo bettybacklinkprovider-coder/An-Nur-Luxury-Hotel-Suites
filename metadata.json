@@ -1,0 +1,6 @@
+{
+  "name": "An Nur Luxury Hotel & Suites",
+  "description": "5-Star Luxury Hotel & Suites in Dammam, Saudi Arabia offering regal accommodation, fine dining, spa wellness, and world-class Saudi hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
